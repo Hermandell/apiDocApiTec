@@ -32,7 +32,7 @@ function ApiDoc() {
     <Container className="my-5">
       <Row>
         <Col md={{ span: 8, offset: 2 }}>
-          <h1 className="text-center mb-4">Documentador de API</h1>
+          <h1 className="text-center mb-4">Documentador de APITecNL</h1>
           <Form onSubmit={handleSubmit}>
             <Form.Group>
               <Form.Label>URL</Form.Label>
